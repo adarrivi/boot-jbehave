@@ -1,0 +1,13 @@
+#gradle
+.gradle
+build/
+/bin/
+#eclipse
+.settings
+.project
+.classpath
+#java
+target/
+#git
+.gitignore.swp
+
