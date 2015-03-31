@@ -1,4 +1,4 @@
-package io.adarrivi.boot.core;
+package io.adarrivi.boot.core.test;
 
 import java.util.List;
 
